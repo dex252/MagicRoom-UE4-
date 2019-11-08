@@ -1,0 +1,1221 @@
+﻿Log file open, 10/30/19 14:59:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MAGICROOM1
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.059854
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.37.0
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 980
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.30-04.59.15:927][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.30-04.59.15:927][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.30-04.59.15:927][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Config/Windows/Engine.ini]
+[2019.10.30-04.59.15:927][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Config/Windows/Engine.ini]
+[2019.10.30-04.59.15:928][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Config/Windows/Engine.ini]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Config/Windows/Engine.ini]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.30-04.59.15:928][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Config/Windows/Engine.ini]
+[2019.10.30-04.59.15:928][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Config/Windows/Engine.ini]
+[2019.10.30-04.59.15:930][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.30-04.59.15:930][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.30-04.59.15:931][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.30-04.59.15:931][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.30-04.59.15:931][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.30-04.59.15:931][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.30-04.59.15:931][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-04.59.15:931][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.30-04.59.15:931][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.30-04.59.15:931][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.30-04.59.15:931][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.30-04.59.15:931][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.30-04.59.15:931][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.30-04.59.15:931][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.30-04.59.15:931][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.30-04.59.15:931][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-04.59.15:931][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.10.30-04.59.15:931][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.30-04.59.15:931][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.10.30-04.59.15:931][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.10.30-04.59.15:931][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.30-04.59.15:931][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.10.30-04.59.15:931][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.30-04.59.15:931][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.30-04.59.15:931][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.30-04.59.15:931][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.30-04.59.15:931][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.30-04.59.15:931][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.30-04.59.15:931][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.30-04.59.15:931][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-04.59.15:931][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.30-04.59.15:931][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.30-04.59.15:931][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.30-04.59.15:931][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.30-04.59.15:933][  0]LogHAL: Display: Platform has ~ 16 GB [17121132544 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.30-04.59.15:933][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.30-04.59.15:933][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.30-04.59.15:933][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.30-04.59.15:934][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.30-04.59.15:934][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-04.59.15:934][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.30-04.59.15:934][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.30-04.59.15:934][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.30-04.59.15:934][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.30-04.59.15:934][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.30-04.59.15:934][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.30-04.59.15:934][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.30-04.59.15:934][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.30-04.59.15:934][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-04.59.15:934][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.10.30-04.59.15:934][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.30-04.59.15:934][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.10.30-04.59.15:934][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.10.30-04.59.15:934][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.30-04.59.15:934][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.10.30-04.59.15:934][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.30-04.59.15:934][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.30-04.59.15:934][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.30-04.59.15:934][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.30-04.59.15:934][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.30-04.59.15:934][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.30-04.59.15:934][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.30-04.59.15:934][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-04.59.15:934][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.30-04.59.15:934][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.30-04.59.15:934][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.30-04.59.15:934][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.30-04.59.15:934][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.30-04.59.15:934][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Config/Windows/Engine.ini]
+[2019.10.30-04.59.15:934][  0]LogInit: Computer: DESKTOP-D9LTVNE
+[2019.10.30-04.59.15:934][  0]LogInit: User: VRLABDV
+[2019.10.30-04.59.15:934][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.30-04.59.15:934][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.30-04.59.15:934][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.10.30-04.59.15:934][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.30-04.59.15:934][  0]LogMemory: Process Physical Memory: 105.10 MB used, 105.11 MB peak
+[2019.10.30-04.59.15:934][  0]LogMemory: Process Virtual Memory: 92.90 MB used, 92.90 MB peak
+[2019.10.30-04.59.15:934][  0]LogMemory: Physical Memory: 7861.16 MB used,  8466.83 MB free, 16327.98 MB total
+[2019.10.30-04.59.15:934][  0]LogMemory: Virtual Memory: 4681.23 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2019.10.30-04.59.15:936][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.10.30-04.59.15:949][  0]LogInit: Using OS detected language (ru-RU).
+[2019.10.30-04.59.15:949][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.10.30-04.59.15:950][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2019.10.30-04.59.15:950][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2019.10.30-04.59.15:950][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2019.10.30-04.59.15:950][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2019.10.30-04.59.15:950][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2019.10.30-04.59.15:950][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2019.10.30-04.59.15:950][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2019.10.30-04.59.15:950][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2019.10.30-04.59.15:951][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.30-04.59.15:980][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.30-04.59.15:981][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.30-04.59.16:159][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.30-04.59.16:201][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2019.10.30-04.59.16:201][  0]LogD3D11RHI:       4053/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.30-04.59.16:203][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.30-04.59.16:203][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.30-04.59.16:203][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.30-04.59.16:209][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.30-04.59.16:209][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.30-04.59.16:209][  0]LogWindows: EnumDisplayDevices:
+[2019.10.30-04.59.16:209][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2019.10.30-04.59.16:209][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2019.10.30-04.59.16:209][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2019.10.30-04.59.16:209][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2019.10.30-04.59.16:209][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.10.30-04.59.16:210][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2019.10.30-04.59.16:210][  0]LogD3D11RHI:   Driver Version: 399.24 (internal:24.21.13.9924, unified:399.24)
+[2019.10.30-04.59.16:210][  0]LogD3D11RHI:      Driver Date: 9-5-2018
+[2019.10.30-04.59.16:210][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2019.10.30-04.59.16:244][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.30-04.59.16:261][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.10.30-04.59.16:562][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.30-04.59.16:569][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.30-04.59.16:575][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.30-04.59.16:581][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.30-04.59.16:588][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.30-04.59.16:595][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.30-04.59.16:601][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.30-04.59.16:607][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.30-04.59.16:610][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.30-04.59.16:638][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.30-04.59.16:638][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.30-04.59.16:638][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.30-04.59.16:638][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.30-04.59.16:638][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.30-04.59.16:638][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.30-04.59.16:638][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.30-04.59.16:638][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.30-04.59.16:638][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.30-04.59.16:638][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.30-04.59.16:638][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.30-04.59.16:638][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.30-04.59.16:638][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.30-04.59.16:638][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.30-04.59.16:638][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.30-04.59.16:638][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.30-04.59.16:638][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.30-04.59.16:638][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.30-04.59.16:639][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.30-04.59.16:653][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.30-04.59.16:653][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.30-04.59.16:665][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.30-04.59.16:665][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.30-04.59.16:670][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.30-04.59.16:676][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.30-04.59.16:682][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.30-04.59.16:688][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.30-04.59.16:709][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.30-04.59.16:709][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.30-04.59.16:709][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.30-04.59.16:715][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.30-04.59.16:749][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Intermediate/Shaders/WorkingDirectory/11124/).
+[2019.10.30-04.59.16:749][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/VRLABDV/AppData/Local/Temp/UnrealShaderWorkingDir/9B38C72E429A180141BD828A80D8D6AD/'.
+[2019.10.30-04.59.16:752][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.30-04.59.16:752][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.30-04.59.16:752][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.30-04.59.17:302][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.30-04.59.17:359][  0]LogDerivedDataCache: Loaded boot cache 0.06s 93MB C:/Users/VRLABDV/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.30-04.59.17:359][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/VRLABDV/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.10.30-04.59.17:359][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.30-04.59.17:359][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.30-04.59.17:359][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.30-04.59.17:359][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.30-04.59.17:369][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.30-04.59.17:369][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.30-04.59.17:369][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.30-04.59.17:370][  0]LogDerivedDataCache: Using Local data cache path C:/Users/VRLABDV/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.30-04.59.17:370][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.30-04.59.17:370][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.30-04.59.17:389][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.30-04.59.17:391][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.30-04.59.17:391][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.30-04.59.17:432][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2019.10.30-04.59.17:657][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.30-04.59.17:779][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.30-04.59.17:779][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.30-04.59.17:779][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.30-04.59.17:779][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.30-04.59.17:779][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.30-04.59.17:786][  0]LogNetVersion: MAGICROOM1 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2164071418)
+[2019.10.30-04.59.18:132][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.041191 seconds
+[2019.10.30-04.59.18:139][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.10.30-04.59.18:139][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.10.30-04.59.18:139][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.30-04.59.18:783][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.30-04.59.18:785][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.30-04.59.18:828][  0]SourceControl: Source control is disabled
+[2019.10.30-04.59.18:828][  0]SourceControl: Source control is disabled
+[2019.10.30-04.59.18:829][  0]SourceControl: Source control is disabled
+[2019.10.30-04.59.18:830][  0]SourceControl: Source control is disabled
+[2019.10.30-04.59.18:895][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.30-04.59.19:048][  0]LogOcInput: OculusInput pre-init called
+[2019.10.30-04.59.19:529][  0]LogEngine: Initializing Engine...
+[2019.10.30-04.59.19:529][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-89847F5B
+[2019.10.30-04.59.19:530][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.30-04.59.19:731][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.30-04.59.19:739][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.30-04.59.19:793][  0]LogInit: XAudio2 using 'Динамики (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.30-04.59.19:809][  0]LogInit: FAudioDevice initialized.
+[2019.10.30-04.59.19:809][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.30-04.59.19:969][  0]LogDerivedDataCache: Saved boot cache 0.16s 93MB C:/Users/VRLABDV/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.30-04.59.19:980][  0]LogInit: Texture streaming: Enabled
+[2019.10.30-04.59.19:991][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.30-04.59.19:992][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.10.30-04.59.19:992][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.10.30-04.59.20:032][  0]LogInit: Transaction tracking system initialized
+[2019.10.30-04.59.20:049][  0]BlueprintLog: New page: Editor Load
+[2019.10.30-04.59.20:095][  0]LocalizationService: Localization service is disabled
+[2019.10.30-04.59.20:277][  0]LogFileCache: Scanning file cache for directory 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/' took 0.00s
+[2019.10.30-04.59.20:277][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.30-04.59.20:277][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.30-04.59.20:405][  0]SourceControl: Source control is disabled
+[2019.10.30-04.59.20:405][  0]Cmd: MAP LOAD FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.30-04.59.20:405][  0]LightingResults: New page: Lighting Build
+[2019.10.30-04.59.20:407][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.30-04.59.20:407][  0]MapCheck: New page: Map Check
+[2019.10.30-04.59.20:407][  0]LightingResults: New page: Lighting Build
+[2019.10.30-04.59.20:429][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.10.30-04.59.20:494][  0]LogAIModule: Creating AISystem for world StartupMap
+[2019.10.30-04.59.20:501][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.30-04.59.20:523][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.10.30-04.59.20:523][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.30-04.59.20:523][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,127ms to complete.
+[2019.10.30-04.59.20:523][  0]LogFileHelpers: Loading map 'StartupMap' took 0.118
+[2019.10.30-04.59.20:629][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-04.59.20:635][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-04.59.20:641][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-04.59.20:647][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-04.59.20:650][  0]LogCollectionManager: Loaded 0 collections in 0.000815 seconds
+[2019.10.30-04.59.20:654][  0]LogFileCache: Scanning file cache for directory 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Collections/' took 0.00s
+[2019.10.30-04.59.20:654][  0]LogFileCache: Scanning file cache for directory 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/Developers/VRLABDV/Collections/' took 0.00s
+[2019.10.30-04.59.20:654][  0]LogFileCache: Scanning file cache for directory 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/Collections/' took 0.00s
+[2019.10.30-04.59.20:654][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.10.30-04.59.20:661][  0]LogContentBrowser: Native class hierarchy populated in 0.0068 seconds. Added 2863 classes and 680 folders.
+[2019.10.30-04.59.20:665][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.30-04.59.20:688][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.30-04.59.20:695][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.30-04.59.20:707][  0]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.30-04.59.20:708][  0]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.30-04.59.20:712][  0]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.30-04.59.20:766][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 26 NumSamples 1 (Frame:1).
+[2019.10.30-04.59.20:845][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.30-04.59.20:845][  0]LogLoad: (Engine Initialization) Total time: 6.06 seconds
+[2019.10.30-04.59.20:845][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.30-04.59.20:895][  0]LogAssetRegistry: Asset discovery search completed in 3.4632 seconds
+[2019.10.30-04.59.20:899][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.10.30-04.59.20:899][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000065 seconds (updated 0 objects)
+[2019.10.30-04.59.20:900][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.30-04.59.20:916][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.30-04.59.23:063][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-04.59.34:948][676]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.30-04.59.35:146][676]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.10.30-04.59.35:157][676]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2019.10.30-04.59.35:181][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.10.30-04.59.35:182][676]Cmd: MAP LOAD FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.30-04.59.35:182][676]LightingResults: New page: Lighting Build
+[2019.10.30-04.59.35:183][676]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2019.10.30-04.59.35:183][676]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.30-04.59.35:184][676]MapCheck: New page: Map Check
+[2019.10.30-04.59.35:184][676]LightingResults: New page: Lighting Build
+[2019.10.30-04.59.35:206][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.10.30-04.59.35:210][676]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.30-04.59.35:230][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.10.30-04.59.35:244][676]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.30-04.59.35:244][676]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,103ms to complete.
+[2019.10.30-04.59.35:244][676]LogFileHelpers: Loading map 'MotionControllerMap' took 0.063
+[2019.10.30-05.00.00:484][501]LogLinker: Warning: While loading 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/Potion.uasset' failed to load '/Game/MagicRoom/Models/pasted__botlemana1Mat': Can't find file.
+[2019.10.30-05.00.00:484][501]LogLinker: Warning: While loading 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/Potion.uasset' failed to load '/Game/MagicRoom/Models/pasted__botlemana1Mat': Can't find file.
+[2019.10.30-05.00.00:485][501]LogLinker: Warning: While loading 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/Potion.uasset' failed to load '/Game/MagicRoom/Models/pasted__botlemana1Mat': Can't find file.
+[2019.10.30-05.00.00:485][501]LogLinker: Warning: While loading 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/Potion.uasset' failed to load '/Game/MagicRoom/Models/pasted__botlemana1Mat': Can't find file.
+[2019.10.30-05.00.00:485][501]LogLinker: Warning: While loading 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/Potion.uasset' failed to load '/Game/MagicRoom/Models/pasted__botlemana1Mat': Can't find file.
+[2019.10.30-05.00.00:485][501]LoadErrors: Failed to load /Game/MagicRoom/Models/pasted__botlemana1Mat.pasted__botlemana1Mat Referenced by Potion
+[2019.10.30-05.00.00:485][501]LogLinker: Warning: While loading 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/Potion.uasset' failed to load '/Game/MagicRoom/Models/pasted__botlemana1Mat': Can't find file.
+[2019.10.30-05.00.00:485][501]LogLinker: Warning: While loading 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/Potion.uasset' failed to load '/Game/MagicRoom/Models/pasted__botlemana1Mat': Can't find file.
+[2019.10.30-05.00.00:486][501]LogLinker: Warning: While loading 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/Potion.uasset' failed to load '/Game/MagicRoom/Models/pasted__botlemana1Mat': Can't find file.
+[2019.10.30-05.00.00:507][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.10.30-05.00.01:831][501]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.30-05.00.01:890][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.10.30-05.00.01:911][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.10.30-05.00.01:930][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.10.30-05.00.06:120][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.10.30-05.00.08:008][  0]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.30-05.00.08:066][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.10.30-05.00.08:090][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.10.30-05.00.08:108][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.10.30-05.00.14:554][572]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\cristal_botle.obj)
+[2019.10.30-05.00.14:565][572]LogFbx: Loading FBX Scene from F:\cristal_botle.obj
+[2019.10.30-05.00.14:573][572]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.30-05.00.21:562][572]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.10.30-05.00.21:670][572]LogMaterial: Display: Missing cached shader map for material cristalMat, compiling. 
+[2019.10.30-05.00.21:711][572]LogFbx: Display: Triangulating static mesh cristal
+[2019.10.30-05.00.21:717][572]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.10.30-05.00.21:717][572]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.10.30-05.00.21:717][572]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.10.30-05.00.21:717][572]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.10.30-05.00.21:717][572]LogStaticMesh: Building static mesh cristal_botle_cristal...
+[2019.10.30-05.00.21:720][572]LogStaticMesh: Built static mesh [0.00s] /Game/MagicRoom/Models/cristal_botle_cristal.cristal_botle_cristal
+[2019.10.30-05.00.21:736][572]LogMaterial: Display: Missing cached shader map for material potenMat, compiling. 
+[2019.10.30-05.00.21:748][572]LogFbx: Display: Triangulating static mesh poten
+[2019.10.30-05.00.21:788][572]LogStaticMesh: Building static mesh cristal_botle_poten...
+[2019.10.30-05.00.21:802][572]LogStaticMesh: Built static mesh [0.01s] /Game/MagicRoom/Models/cristal_botle_poten.cristal_botle_poten
+[2019.10.30-05.00.21:822][572]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.10.30-05.00.23:954][749]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.10.30-05.00.24:011][754]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2019.10.30-05.00.24:806][830]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2019.10.30-05.00.25:908][943]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2019.10.30-05.00.26:061][961]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.10.30-05.00.26:220][978]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2019.10.30-05.00.26:660][ 25]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.10.30-05.00.26:905][ 50]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.10.30-05.00.28:472][232]LogSlate: Window 'Message Log' being destroyed
+[2019.10.30-05.00.28:475][232]LogSlate: Window 'Message Log' being destroyed
+[2019.10.30-05.00.31:873][474]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\roomtest9.obj)
+[2019.10.30-05.00.31:882][474]LogFbx: Loading FBX Scene from F:\roomtest9.obj
+[2019.10.30-05.00.31:978][474]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.30-05.00.35:102][474]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.10.30-05.00.35:124][474]LogMaterial: Display: Missing cached shader map for material room_cotleMat, compiling. 
+[2019.10.30-05.00.35:136][474]LogFbx: Display: Triangulating static mesh room_cotle
+[2019.10.30-05.00.35:247][474]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.10.30-05.00.35:247][474]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.10.30-05.00.35:247][474]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.10.30-05.00.35:247][474]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.10.30-05.00.35:250][474]LogStaticMesh: Building static mesh roomtest9_room_cotle...
+[2019.10.30-05.00.35:295][474]LogStaticMesh: Built static mesh [0.04s] /Game/MagicRoom/Models/roomtest9_room_cotle.roomtest9_room_cotle
+[2019.10.30-05.00.35:336][474]LogMaterial: Display: Missing cached shader map for material room_group10Mat, compiling. 
+[2019.10.30-05.00.35:421][474]LogStaticMesh: Building static mesh roomtest9_room_group10...
+[2019.10.30-05.00.35:482][474]LogStaticMesh: Built static mesh [0.06s] /Game/MagicRoom/Models/roomtest9_room_group10.roomtest9_room_group10
+[2019.10.30-05.00.35:534][474]LogMaterial: Display: Missing cached shader map for material room_group11Mat, compiling. 
+[2019.10.30-05.00.35:550][474]LogFbx: Display: Triangulating static mesh room_group11
+[2019.10.30-05.00.35:555][474]LogStaticMesh: Building static mesh roomtest9_room_group11...
+[2019.10.30-05.00.35:558][474]LogStaticMesh: Built static mesh [0.00s] /Game/MagicRoom/Models/roomtest9_room_group11.roomtest9_room_group11
+[2019.10.30-05.00.35:575][474]LogMaterial: Display: Missing cached shader map for material room_group14Mat, compiling. 
+[2019.10.30-05.00.35:592][474]LogFbx: Display: Triangulating static mesh room_group14
+[2019.10.30-05.00.35:603][474]LogStaticMesh: Building static mesh roomtest9_room_group14...
+[2019.10.30-05.00.35:615][474]LogStaticMesh: Built static mesh [0.01s] /Game/MagicRoom/Models/roomtest9_room_group14.roomtest9_room_group14
+[2019.10.30-05.00.35:632][474]LogMaterial: Display: Missing cached shader map for material room_pCube35Mat, compiling. 
+[2019.10.30-05.00.35:648][474]LogFbx: Display: Triangulating static mesh room_pCube35
+[2019.10.30-05.00.35:655][474]LogStaticMesh: Building static mesh roomtest9_room_pCube35...
+[2019.10.30-05.00.35:656][474]LogStaticMesh: Built static mesh [0.00s] /Game/MagicRoom/Models/roomtest9_room_pCube35.roomtest9_room_pCube35
+[2019.10.30-05.00.35:673][474]LogMaterial: Display: Missing cached shader map for material room_pCube36Mat, compiling. 
+[2019.10.30-05.00.35:690][474]LogFbx: Display: Triangulating static mesh room_pCube36
+[2019.10.30-05.00.35:697][474]LogStaticMesh: Building static mesh roomtest9_room_pCube36...
+[2019.10.30-05.00.35:698][474]LogStaticMesh: Built static mesh [0.00s] /Game/MagicRoom/Models/roomtest9_room_pCube36.roomtest9_room_pCube36
+[2019.10.30-05.00.35:713][474]LogMaterial: Display: Missing cached shader map for material room_pCube37Mat, compiling. 
+[2019.10.30-05.00.35:730][474]LogFbx: Display: Triangulating static mesh room_pCube37
+[2019.10.30-05.00.35:737][474]LogStaticMesh: Building static mesh roomtest9_room_pCube37...
+[2019.10.30-05.00.35:738][474]LogStaticMesh: Built static mesh [0.00s] /Game/MagicRoom/Models/roomtest9_room_pCube37.roomtest9_room_pCube37
+[2019.10.30-05.00.35:753][474]LogMaterial: Display: Missing cached shader map for material room_pCube38Mat, compiling. 
+[2019.10.30-05.00.35:768][474]LogFbx: Display: Triangulating static mesh room_pCube38
+[2019.10.30-05.00.35:774][474]LogStaticMesh: Building static mesh roomtest9_room_pCube38...
+[2019.10.30-05.00.35:775][474]LogStaticMesh: Built static mesh [0.00s] /Game/MagicRoom/Models/roomtest9_room_pCube38.roomtest9_room_pCube38
+[2019.10.30-05.00.35:790][474]LogMaterial: Display: Missing cached shader map for material room_polySurface308Mat, compiling. 
+[2019.10.30-05.00.35:805][474]LogFbx: Display: Triangulating static mesh room_polySurface308
+[2019.10.30-05.00.35:823][474]LogStaticMesh: Building static mesh roomtest9_room_polySurface308...
+[2019.10.30-05.00.35:833][474]LogStaticMesh: Built static mesh [0.01s] /Game/MagicRoom/Models/roomtest9_room_polySurface308.roomtest9_room_polySurface308
+[2019.10.30-05.00.35:834][474]LogStaticMesh: Warning: roomtest9_room_polySurface308 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.10.30-05.00.35:834][474]LogStaticMesh: Warning: roomtest9_room_polySurface308 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.30-05.00.35:853][474]LogMaterial: Display: Missing cached shader map for material room_polySurface309Mat, compiling. 
+[2019.10.30-05.00.35:870][474]LogFbx: Display: Triangulating static mesh room_polySurface309
+[2019.10.30-05.00.35:880][474]LogStaticMesh: Building static mesh roomtest9_room_polySurface309...
+[2019.10.30-05.00.35:885][474]LogStaticMesh: Built static mesh [0.01s] /Game/MagicRoom/Models/roomtest9_room_polySurface309.roomtest9_room_polySurface309
+[2019.10.30-05.00.35:886][474]LogStaticMesh: Warning: roomtest9_room_polySurface309 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.10.30-05.00.35:886][474]LogStaticMesh: Warning: roomtest9_room_polySurface309 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.30-05.00.35:904][474]LogMaterial: Display: Missing cached shader map for material room_skaf10Mat, compiling. 
+[2019.10.30-05.00.35:923][474]LogFbx: Display: Triangulating static mesh room_skaf10
+[2019.10.30-05.00.35:931][474]LogStaticMesh: Building static mesh roomtest9_room_skaf10...
+[2019.10.30-05.00.35:936][474]LogStaticMesh: Built static mesh [0.01s] /Game/MagicRoom/Models/roomtest9_room_skaf10.roomtest9_room_skaf10
+[2019.10.30-05.00.35:955][474]LogMaterial: Display: Missing cached shader map for material room_skaf3Mat, compiling. 
+[2019.10.30-05.00.35:970][474]LogFbx: Display: Triangulating static mesh room_skaf3
+[2019.10.30-05.00.35:978][474]LogStaticMesh: Building static mesh roomtest9_room_skaf3...
+[2019.10.30-05.00.35:983][474]LogStaticMesh: Built static mesh [0.00s] /Game/MagicRoom/Models/roomtest9_room_skaf3.roomtest9_room_skaf3
+[2019.10.30-05.00.36:005][474]LogMaterial: Display: Missing cached shader map for material room_skaf6Mat, compiling. 
+[2019.10.30-05.00.36:023][474]LogFbx: Display: Triangulating static mesh room_skaf6
+[2019.10.30-05.00.36:030][474]LogStaticMesh: Building static mesh roomtest9_room_skaf6...
+[2019.10.30-05.00.36:035][474]LogStaticMesh: Built static mesh [0.00s] /Game/MagicRoom/Models/roomtest9_room_skaf6.roomtest9_room_skaf6
+[2019.10.30-05.00.36:053][474]LogMaterial: Display: Missing cached shader map for material room_skaf7Mat, compiling. 
+[2019.10.30-05.00.36:072][474]LogFbx: Display: Triangulating static mesh room_skaf7
+[2019.10.30-05.00.36:081][474]LogStaticMesh: Building static mesh roomtest9_room_skaf7...
+[2019.10.30-05.00.36:086][474]LogStaticMesh: Built static mesh [0.00s] /Game/MagicRoom/Models/roomtest9_room_skaf7.roomtest9_room_skaf7
+[2019.10.30-05.00.36:106][474]LogMaterial: Display: Missing cached shader map for material room_skaf8Mat, compiling. 
+[2019.10.30-05.00.36:124][474]LogFbx: Display: Triangulating static mesh room_skaf8
+[2019.10.30-05.00.36:133][474]LogStaticMesh: Building static mesh roomtest9_room_skaf8...
+[2019.10.30-05.00.36:138][474]LogStaticMesh: Built static mesh [0.01s] /Game/MagicRoom/Models/roomtest9_room_skaf8.roomtest9_room_skaf8
+[2019.10.30-05.00.36:157][474]LogMaterial: Display: Missing cached shader map for material room_skaf9Mat, compiling. 
+[2019.10.30-05.00.36:178][474]LogFbx: Display: Triangulating static mesh room_skaf9
+[2019.10.30-05.00.36:186][474]LogStaticMesh: Building static mesh roomtest9_room_skaf9...
+[2019.10.30-05.00.36:191][474]LogStaticMesh: Built static mesh [0.01s] /Game/MagicRoom/Models/roomtest9_room_skaf9.roomtest9_room_skaf9
+[2019.10.30-05.00.36:209][474]LogMaterial: Display: Missing cached shader map for material room_stol2Mat, compiling. 
+[2019.10.30-05.00.36:226][474]LogFbx: Display: Triangulating static mesh room_stol2
+[2019.10.30-05.00.36:235][474]LogStaticMesh: Building static mesh roomtest9_room_stol2...
+[2019.10.30-05.00.36:239][474]LogStaticMesh: Built static mesh [0.00s] /Game/MagicRoom/Models/roomtest9_room_stol2.roomtest9_room_stol2
+[2019.10.30-05.00.36:260][474]LogMaterial: Display: Missing cached shader map for material room_stol3Mat, compiling. 
+[2019.10.30-05.00.36:280][474]LogFbx: Display: Triangulating static mesh room_stol3
+[2019.10.30-05.00.36:288][474]LogStaticMesh: Building static mesh roomtest9_room_stol3...
+[2019.10.30-05.00.36:292][474]LogStaticMesh: Built static mesh [0.00s] /Game/MagicRoom/Models/roomtest9_room_stol3.roomtest9_room_stol3
+[2019.10.30-05.00.36:309][474]LogMaterial: Display: Missing cached shader map for material tumba_roomMat, compiling. 
+[2019.10.30-05.00.36:327][474]LogFbx: Display: Triangulating static mesh tumba_room
+[2019.10.30-05.00.36:333][474]LogStaticMesh: Building static mesh roomtest9_tumba_room...
+[2019.10.30-05.00.36:335][474]LogStaticMesh: Built static mesh [0.00s] /Game/MagicRoom/Models/roomtest9_tumba_room.roomtest9_tumba_room
+[2019.10.30-05.00.36:405][474]FBXImport: Warning: roomtest9_room_polySurface308 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.10.30-05.00.36:405][474]FBXImport: Warning: roomtest9_room_polySurface308 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.10.30-05.00.36:405][474]FBXImport: Warning: roomtest9_room_polySurface309 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.10.30-05.00.36:405][474]FBXImport: Warning: roomtest9_room_polySurface309 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.10.30-05.00.36:918][490]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 396
+[2019.10.30-05.00.36:927][491]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 386
+[2019.10.30-05.00.37:697][553]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 376
+[2019.10.30-05.00.38:868][653]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 366
+[2019.10.30-05.00.38:945][661]LogSlate: Window 'Message Log' being destroyed
+[2019.10.30-05.00.38:950][661]LogSlate: Window 'Message Log' being destroyed
+[2019.10.30-05.00.40:036][748]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 356
+[2019.10.30-05.00.40:566][781]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 346
+[2019.10.30-05.00.43:309][962]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 336
+[2019.10.30-05.00.44:001][  7]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 326
+[2019.10.30-05.00.45:218][ 88]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 316
+[2019.10.30-05.00.45:620][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/Potion" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/Potion.uasset" SILENT=true
+[2019.10.30-05.00.45:646][111]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Potion5BBC67B34393F5A02EDA52B16033CE81.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/Potion.uasset'
+[2019.10.30-05.00.45:784][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.10.30-05.00.45:811][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.10.30-05.00.45:833][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.10.30-05.00.45:942][112]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 306
+[2019.10.30-05.00.46:595][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/Potion" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/Potion.uasset" SILENT=true
+[2019.10.30-05.00.46:618][143]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Potion72025EB940DB72716E2077838D4EB3C6.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/Potion.uasset'
+[2019.10.30-05.00.47:899][226]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 296
+[2019.10.30-05.00.48:639][297]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 286
+[2019.10.30-05.00.49:499][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.10.30-05.00.49:535][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/cristal_botle_cristal" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/cristal_botle_cristal.uasset" SILENT=true
+[2019.10.30-05.00.49:556][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/cristal_botle_cristalED1D6F594FEB90975642C7A406892829.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/cristal_botle_cristal.uasset'
+[2019.10.30-05.00.49:580][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/cristalMat" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/cristalMat.uasset" SILENT=true
+[2019.10.30-05.00.49:602][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/cristalMat1B9C82A4488B35D0412E5AACCFFC3E2D.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/cristalMat.uasset'
+[2019.10.30-05.00.49:625][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/roomtest9_tumba_room" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_tumba_room.uasset" SILENT=true
+[2019.10.30-05.00.49:648][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/roomtest9_tumba_roomCFE370404B8BCF5004ABDA80F6457D9B.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_tumba_room.uasset'
+[2019.10.30-05.00.49:669][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/potenMat" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/potenMat.uasset" SILENT=true
+[2019.10.30-05.00.49:688][372]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 276
+[2019.10.30-05.00.49:688][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/potenMatCD3ABE2943B215DD0176F5BB01969505.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/potenMat.uasset'
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 266
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 256
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 246
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 236
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 226
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 216
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 206
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 196
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 186
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 176
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 166
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 156
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 146
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 136
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 126
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 116
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 106
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 96
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 86
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 76
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 66
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 56
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 46
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 36
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.10.30-05.01.12:785][372]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.10.30-05.01.12:857][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/tumba_roomMat" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/tumba_roomMat.uasset" SILENT=true
+[2019.10.30-05.01.12:869][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/tumba_roomMatCEE8F6A94269749B5D28D08DD727F445.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/tumba_roomMat.uasset'
+[2019.10.30-05.01.12:886][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/roomtest9_room_cotle" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_cotle.uasset" SILENT=true
+[2019.10.30-05.01.12:906][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/roomtest9_room_cotle37B2C28E4C717B20050EFEA699277962.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_cotle.uasset'
+[2019.10.30-05.01.12:918][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/room_cotleMat" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_cotleMat.uasset" SILENT=true
+[2019.10.30-05.01.12:930][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/room_cotleMat3D8C07C54BAEE9C72316C0BD83686A13.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_cotleMat.uasset'
+[2019.10.30-05.01.12:945][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/roomtest9_room_group10" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_group10.uasset" SILENT=true
+[2019.10.30-05.01.12:968][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/roomtest9_room_group10CE1E5682444F546C902ED8AA41BDDED9.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_group10.uasset'
+[2019.10.30-05.01.12:981][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/room_group10Mat" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_group10Mat.uasset" SILENT=true
+[2019.10.30-05.01.12:994][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/room_group10MatAF3EBA4A4E7999F8859DF79FB0FBC438.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_group10Mat.uasset'
+[2019.10.30-05.01.13:006][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/roomtest9_room_group11" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_group11.uasset" SILENT=true
+[2019.10.30-05.01.13:020][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/roomtest9_room_group112C8FA1344D4B74D3464747BE516493A3.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_group11.uasset'
+[2019.10.30-05.01.13:034][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/room_group11Mat" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_group11Mat.uasset" SILENT=true
+[2019.10.30-05.01.13:046][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/room_group11MatFBAC93C54B04C91599ECA992552201E7.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_group11Mat.uasset'
+[2019.10.30-05.01.13:061][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/roomtest9_room_group14" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_group14.uasset" SILENT=true
+[2019.10.30-05.01.13:075][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/roomtest9_room_group142EEA384C46B46D6FAD6B02904A34DEED.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_group14.uasset'
+[2019.10.30-05.01.13:091][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/room_group14Mat" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_group14Mat.uasset" SILENT=true
+[2019.10.30-05.01.13:104][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/room_group14MatB30173B6432B8F8CFF9E8987A084672E.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_group14Mat.uasset'
+[2019.10.30-05.01.13:118][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/roomtest9_room_pCube35" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_pCube35.uasset" SILENT=true
+[2019.10.30-05.01.13:132][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/roomtest9_room_pCube351392AD474F5F82FE615857863EADA6BF.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_pCube35.uasset'
+[2019.10.30-05.01.13:146][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/room_pCube35Mat" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_pCube35Mat.uasset" SILENT=true
+[2019.10.30-05.01.13:158][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/room_pCube35MatA95207AF4EA44029471FA891642A9180.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_pCube35Mat.uasset'
+[2019.10.30-05.01.13:172][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/roomtest9_room_pCube36" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_pCube36.uasset" SILENT=true
+[2019.10.30-05.01.13:187][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/roomtest9_room_pCube363A823919491A864DFC228F964F8B5716.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_pCube36.uasset'
+[2019.10.30-05.01.13:202][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/room_pCube36Mat" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_pCube36Mat.uasset" SILENT=true
+[2019.10.30-05.01.13:214][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/room_pCube36Mat6C9B7C3E4B954B299D61F5943B21B6D9.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_pCube36Mat.uasset'
+[2019.10.30-05.01.13:230][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/roomtest9_room_pCube37" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_pCube37.uasset" SILENT=true
+[2019.10.30-05.01.13:243][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/roomtest9_room_pCube373387F6E842FD5953533DFE8EE1E0C4AA.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_pCube37.uasset'
+[2019.10.30-05.01.13:257][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/room_pCube37Mat" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_pCube37Mat.uasset" SILENT=true
+[2019.10.30-05.01.13:269][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/room_pCube37Mat9E461F3C49D597897180CEB090B49FA1.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_pCube37Mat.uasset'
+[2019.10.30-05.01.13:283][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/roomtest9_room_pCube38" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_pCube38.uasset" SILENT=true
+[2019.10.30-05.01.13:296][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/roomtest9_room_pCube38547204774DDBCAE7162941B13BE85CCD.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_pCube38.uasset'
+[2019.10.30-05.01.13:310][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/room_pCube38Mat" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_pCube38Mat.uasset" SILENT=true
+[2019.10.30-05.01.13:323][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/room_pCube38Mat6D37652C48AF358C7AFFB4808BF269A6.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_pCube38Mat.uasset'
+[2019.10.30-05.01.13:352][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/roomtest9_room_polySurface3089CE95CDE42BC3118D51C7EB9B5F2C1EB.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_polySurface308.uasset'
+[2019.10.30-05.01.13:365][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/room_polySurface308Mat" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_polySurface308Mat.uasset" SILENT=true
+[2019.10.30-05.01.13:377][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/room_polySurface308MatA687FB1749146B7321117282350A1CD2.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_polySurface308Mat.uasset'
+[2019.10.30-05.01.13:403][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/roomtest9_room_polySurface3091807E49844D2DB5E11494EB50D842723.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_polySurface309.uasset'
+[2019.10.30-05.01.13:417][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/room_polySurface309Mat" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_polySurface309Mat.uasset" SILENT=true
+[2019.10.30-05.01.13:429][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/room_polySurface309MatB5D9BAD0491C37E874CC3EA60510C912.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_polySurface309Mat.uasset'
+[2019.10.30-05.01.13:444][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/roomtest9_room_skaf10" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_skaf10.uasset" SILENT=true
+[2019.10.30-05.01.13:458][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/roomtest9_room_skaf100176FA474432AF9A29E75192CC7886B0.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_skaf10.uasset'
+[2019.10.30-05.01.13:472][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/room_skaf10Mat" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_skaf10Mat.uasset" SILENT=true
+[2019.10.30-05.01.13:484][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/room_skaf10MatC28E859645397B27F90B0C9E1C1CCA6A.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_skaf10Mat.uasset'
+[2019.10.30-05.01.13:496][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/roomtest9_room_skaf3" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_skaf3.uasset" SILENT=true
+[2019.10.30-05.01.13:510][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/roomtest9_room_skaf3175C122E4B6E02E5A85CBA8A0511FEE6.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_skaf3.uasset'
+[2019.10.30-05.01.13:523][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/room_skaf3Mat" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_skaf3Mat.uasset" SILENT=true
+[2019.10.30-05.01.13:537][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/room_skaf3MatBDABD922498A7D6955111A999A6175A8.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_skaf3Mat.uasset'
+[2019.10.30-05.01.13:549][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/roomtest9_room_skaf6" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_skaf6.uasset" SILENT=true
+[2019.10.30-05.01.13:563][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/roomtest9_room_skaf606AEEF37489E9A66C118899C3DC2AB1C.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_skaf6.uasset'
+[2019.10.30-05.01.13:576][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/room_skaf6Mat" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_skaf6Mat.uasset" SILENT=true
+[2019.10.30-05.01.13:589][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/room_skaf6Mat904C068D41436CCF83C446925A15028E.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_skaf6Mat.uasset'
+[2019.10.30-05.01.13:600][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/roomtest9_room_skaf7" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_skaf7.uasset" SILENT=true
+[2019.10.30-05.01.13:614][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/roomtest9_room_skaf70FCEC7904E8D435E144DF2B2EBC23949.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_skaf7.uasset'
+[2019.10.30-05.01.13:628][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/room_skaf7Mat" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_skaf7Mat.uasset" SILENT=true
+[2019.10.30-05.01.13:641][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/room_skaf7Mat715BB045417B1BBEEBDC2C8B890232A6.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_skaf7Mat.uasset'
+[2019.10.30-05.01.13:654][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/roomtest9_room_skaf8" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_skaf8.uasset" SILENT=true
+[2019.10.30-05.01.13:668][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/roomtest9_room_skaf87C95083E4AB7108A405DA0BC305DED9A.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_skaf8.uasset'
+[2019.10.30-05.01.13:682][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/room_skaf8Mat" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_skaf8Mat.uasset" SILENT=true
+[2019.10.30-05.01.13:696][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/room_skaf8Mat573929A24A538280ABED6D8E9D0AF856.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_skaf8Mat.uasset'
+[2019.10.30-05.01.13:708][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/roomtest9_room_skaf9" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_skaf9.uasset" SILENT=true
+[2019.10.30-05.01.13:722][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/roomtest9_room_skaf9ADC6A7F3493A10B0224B7383A9E27F42.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_skaf9.uasset'
+[2019.10.30-05.01.13:737][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/room_skaf9Mat" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_skaf9Mat.uasset" SILENT=true
+[2019.10.30-05.01.13:749][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/room_skaf9Mat7707112042966F89BB6588B392DB142A.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_skaf9Mat.uasset'
+[2019.10.30-05.01.13:762][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/roomtest9_room_stol2" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_stol2.uasset" SILENT=true
+[2019.10.30-05.01.13:776][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/roomtest9_room_stol2FEA20C19427A8B7674F951A331E973CF.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_stol2.uasset'
+[2019.10.30-05.01.13:790][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/room_stol2Mat" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_stol2Mat.uasset" SILENT=true
+[2019.10.30-05.01.13:802][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/room_stol2Mat07FD4C8341890242A034FC832B6D550C.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_stol2Mat.uasset'
+[2019.10.30-05.01.13:815][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/roomtest9_room_stol3" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_stol3.uasset" SILENT=true
+[2019.10.30-05.01.13:829][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/roomtest9_room_stol337FD81BD401671E551F049846D1B4773.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/roomtest9_room_stol3.uasset'
+[2019.10.30-05.01.13:843][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/Models/room_stol3Mat" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_stol3Mat.uasset" SILENT=true
+[2019.10.30-05.01.13:855][372]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/room_stol3MatBF6810064DE8AACD4C05DC814F035F87.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/Models/room_stol3Mat.uasset'
+[2019.10.30-05.01.27:102][903]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MagicRoom/BluePrints/Pick_PR.Pick_PR
+[2019.10.30-05.01.27:288][903]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.10.30-05.01.27:981][903]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.30-05.01.28:022][904]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.30-05.01.38:504][907]LogSlate: Window 'Pick_PR' being destroyed
+[2019.10.30-05.01.38:509][907]LogSlate: Window 'Pick_PR' being destroyed
+[2019.10.30-05.01.38:522][907]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.10.30-05.01.48:209][ 54]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MagicRoom/BluePrints/Potion_Child.Potion_Child
+[2019.10.30-05.01.48:496][ 54]LogRenderer: Reallocating scene render targets to support 1208x708 Format 26 NumSamples 1 (Frame:1).
+[2019.10.30-05.02.12:041][256]BlueprintLog: New page: Compile Potion_Child
+[2019.10.30-05.02.12:198][256]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2019.10.30-05.02.13:488][375]LogSlate: Window 'Potion_Child' being destroyed
+[2019.10.30-05.02.13:506][375]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.10.30-05.02.24:043][601]LogMetaData: Removing '/Game/MagicRoom/BluePrints/Pickable_Items/Potion_Child.Potion_Child:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MagicRoom/BluePrints/Potion_Child.PackageMetaData'
+[2019.10.30-05.02.24:043][601]LogMetaData: Removing '/Game/MagicRoom/BluePrints/Pickable_Items/Potion_Child.SKEL_Potion_Child_C' ref from Metadata '/Game/MagicRoom/BluePrints/Potion_Child.PackageMetaData'
+[2019.10.30-05.02.24:043][601]LogMetaData: Removing '/Game/MagicRoom/BluePrints/Pickable_Items/Potion_Child.Potion_Child_C' ref from Metadata '/Game/MagicRoom/BluePrints/Potion_Child.PackageMetaData'
+[2019.10.30-05.02.24:043][601]LogMetaData: Removing '/Game/MagicRoom/BluePrints/Pickable_Items/Potion_Child.Potion_Child:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MagicRoom/BluePrints/Potion_Child.PackageMetaData'
+[2019.10.30-05.02.24:043][601]LogMetaData: Removing '/Game/MagicRoom/BluePrints/Pickable_Items/Potion_Child.Potion_Child:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/MagicRoom/BluePrints/Potion_Child.PackageMetaData'
+[2019.10.30-05.02.24:043][601]LogMetaData: Removing '/Game/MagicRoom/BluePrints/Pickable_Items/Potion_Child.Potion_Child:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MagicRoom/BluePrints/Potion_Child.PackageMetaData'
+[2019.10.30-05.02.24:043][601]LogMetaData: Removing '/Game/MagicRoom/BluePrints/Pickable_Items/Potion_Child.Potion_Child:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/MagicRoom/BluePrints/Potion_Child.PackageMetaData'
+[2019.10.30-05.02.24:043][601]LogMetaData: Removing '/Game/MagicRoom/BluePrints/Pickable_Items/Potion_Child.Potion_Child:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MagicRoom/BluePrints/Potion_Child.PackageMetaData'
+[2019.10.30-05.02.24:043][601]LogMetaData: Removing '/Game/MagicRoom/BluePrints/Pickable_Items/Potion_Child.Potion_Child:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/MagicRoom/BluePrints/Potion_Child.PackageMetaData'
+[2019.10.30-05.02.24:043][601]LogMetaData: Removing '/Game/MagicRoom/BluePrints/Pickable_Items/Potion_Child.SKEL_Potion_Child_C:ReceiveBeginPlay' ref from Metadata '/Game/MagicRoom/BluePrints/Potion_Child.PackageMetaData'
+[2019.10.30-05.02.24:043][601]LogMetaData: Removing '/Game/MagicRoom/BluePrints/Pickable_Items/Potion_Child.SKEL_Potion_Child_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/MagicRoom/BluePrints/Potion_Child.PackageMetaData'
+[2019.10.30-05.02.24:043][601]LogMetaData: Removing '/Game/MagicRoom/BluePrints/Pickable_Items/Potion_Child.SKEL_Potion_Child_C:ReceiveTick' ref from Metadata '/Game/MagicRoom/BluePrints/Potion_Child.PackageMetaData'
+[2019.10.30-05.02.24:043][601]LogMetaData: Removing '/Game/MagicRoom/BluePrints/Pickable_Items/Potion_Child.SKEL_Potion_Child_C:Potion' ref from Metadata '/Game/MagicRoom/BluePrints/Potion_Child.PackageMetaData'
+[2019.10.30-05.02.24:043][601]LogMetaData: Removing '/Game/MagicRoom/BluePrints/Pickable_Items/Potion_Child.SKEL_Potion_Child_C:UserConstructionScript' ref from Metadata '/Game/MagicRoom/BluePrints/Potion_Child.PackageMetaData'
+[2019.10.30-05.02.24:043][601]LogMetaData: Removing '/Game/MagicRoom/BluePrints/Pickable_Items/Potion_Child.Potion_Child_C:Potion' ref from Metadata '/Game/MagicRoom/BluePrints/Potion_Child.PackageMetaData'
+[2019.10.30-05.02.24:085][601]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Potion_ChildB9DBBBFF49C0A0C725107F800145B4AA.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/BluePrints/Pickable_Items/Potion_Child.uasset'
+[2019.10.30-05.02.24:295][601]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.10.30-05.02.24:324][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.10.30-05.02.24:350][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.10.30-05.02.34:430][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-05.02.37:141][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-05.02.40:517][490]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.30-05.02.44:550][972]LogTemp: Repeating last play command: VR Preview
+[2019.10.30-05.02.44:558][972]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.10.30-05.02.44:558][972]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-05.02.44:558][972]PIE: New page: PIE session: MotionControllerMap (31 окт. 2019 г., 1:02:44)
+[2019.10.30-05.02.44:559][972]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.10.30-05.02.44:559][972]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.10.30-05.02.44:569][972]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009935s)
+[2019.10.30-05.02.44:570][972]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.10.30-05.02.44:570][972]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2019.10.30-05.02.44:570][972]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.010920s)
+[2019.10.30-05.02.44:598][972]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.10.30-05.02.44:640][972]LogInit: XAudio2 using 'Динамики (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.30-05.02.44:651][972]LogInit: FAudioDevice initialized.
+[2019.10.30-05.02.44:659][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-05.02.44:669][972]LogLoad: Game class is 'GameModeBase'
+[2019.10.30-05.02.44:672][972]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.10.30-15.02.44
+[2019.10.30-05.02.44:672][972]LogWorld: Bringing up level for play took: 0.001938
+[2019.10.30-05.02.44:672][972]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.10.30-05.02.44:677][972]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.10.30-05.02.44:682][972]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0,774
+[2019.10.30-05.02.44:682][972]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.10.30-05.02.44:706][973]LogRenderer: Reallocating scene render targets to support 3080x1712 Format 26 NumSamples 1 (Frame:1).
+[2019.10.30-05.02.49:972][423]LogCore: Display: AppLifetime: Application will enter background
+[2019.10.30-05.02.50:720][490]LogCore: Display: AppLifetime: Application has entered foreground
+[2019.10.30-05.02.51:494][718]LogCore: Display: AppLifetime: Application will enter background
+[2019.10.30-05.02.51:813][825]LogCore: Display: AppLifetime: Application has entered foreground
+[2019.10.30-05.02.54:874][311]LogHMD: SteamVR Shutting down.
+[2019.10.30-05.02.54:891][311]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.30-05.02.54:920][311]LogSlate: Window 'MAGICROOM1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.30-05.02.54:923][311]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.10.30-05.02.54:923][311]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.10.30-05.02.54:923][311]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.30-05.02.54:931][311]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.30-05.02.54:931][311]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.10.30-05.02.55:036][311]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2019.10.30-05.02.55:053][312]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.10.30-05.03.13:953][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-05.03.14:020][582]LogTemp: Repeating last play command: VR Preview
+[2019.10.30-05.03.14:033][582]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.10.30-05.03.14:033][582]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-05.03.14:034][582]PIE: New page: PIE session: MotionControllerMap (31 окт. 2019 г., 1:03:14)
+[2019.10.30-05.03.14:034][582]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.10.30-05.03.14:045][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011151s)
+[2019.10.30-05.03.14:046][582]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.10.30-05.03.14:046][582]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2019.10.30-05.03.14:046][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.012226s)
+[2019.10.30-05.03.14:101][582]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.10.30-05.03.14:144][582]LogInit: XAudio2 using 'Динамики (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.30-05.03.14:154][582]LogInit: FAudioDevice initialized.
+[2019.10.30-05.03.14:160][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-05.03.14:702][582]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-89847F5B
+[2019.10.30-05.03.14:710][582]LogLoad: Game class is 'GameModeBase'
+[2019.10.30-05.03.14:713][582]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.10.30-15.03.14
+[2019.10.30-05.03.14:714][582]LogWorld: Bringing up level for play took: 0.003375
+[2019.10.30-05.03.14:714][582]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.10.30-05.03.14:720][582]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1,264
+[2019.10.30-05.03.14:721][582]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.10.30-05.03.52:888][991]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.10.30-05.03.52:926][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-05.03.52:926][991]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.10.30-05.03.52:945][991]LogSlate: Window 'MAGICROOM1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.30-05.03.52:948][991]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.30-05.03.52:955][991]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.30-05.03.52:956][991]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.10.30-05.03.52:990][991]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.10.30-05.03.53:003][992]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.10.30-05.03.54:506][168]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-05.03.54:663][186]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MagicRoom/BluePrints/Pickable_Items/Potion_Child.Potion_Child
+[2019.10.30-05.04.04:600][ 62]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Potion_Child8E78E09A44D1A7D87999959CBA2B5247.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/BluePrints/Pickable_Items/Potion_Child.uasset'
+[2019.10.30-05.04.05:873][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-05.04.05:942][192]LogSlate: Window 'Potion_Child' being destroyed
+[2019.10.30-05.04.05:953][192]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.10.30-05.04.06:973][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-05.04.07:048][317]LogTemp: Repeating last play command: VR Preview
+[2019.10.30-05.04.07:056][317]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.10.30-05.04.07:057][317]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.30-05.04.07:057][317]LogPlayLevel: [PlayLevel] Compiling Potion_Child before play...
+[2019.10.30-05.04.07:211][317]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2019.10.30-05.04.07:212][317]LogPlayLevel: PlayLevel: Blueprint regeneration took 155 ms (1 blueprints)
+[2019.10.30-05.04.07:212][317]PIE: New page: PIE session: MotionControllerMap (31 окт. 2019 г., 1:04:07)
+[2019.10.30-05.04.07:212][317]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.10.30-05.04.07:222][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010235s)
+[2019.10.30-05.04.07:223][317]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.10.30-05.04.07:223][317]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2019.10.30-05.04.07:223][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.011377s)
+[2019.10.30-05.04.07:248][317]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.10.30-05.04.07:289][317]LogInit: XAudio2 using 'Динамики (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.30-05.04.07:299][317]LogInit: FAudioDevice initialized.
+[2019.10.30-05.04.07:306][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-05.04.07:315][317]LogLoad: Game class is 'GameModeBase'
+[2019.10.30-05.04.07:318][317]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.10.30-15.04.07
+[2019.10.30-05.04.07:319][317]LogWorld: Bringing up level for play took: 0.002762
+[2019.10.30-05.04.07:319][317]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.10.30-05.04.07:325][317]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0,131
+[2019.10.30-05.04.07:325][317]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.10.30-05.04.25:593][950]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.10.30-05.04.25:633][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-05.04.25:633][950]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.10.30-05.04.25:653][950]LogSlate: Window 'MAGICROOM1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.30-05.04.25:655][950]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.30-05.04.25:662][950]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.30-05.04.25:662][950]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.10.30-05.04.25:694][950]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.10.30-05.04.25:707][951]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.10.30-05.04.26:831][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-05.04.27:004][102]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MagicRoom/BluePrints/Pickable_Items/Potion_Child.Potion_Child
+[2019.10.30-05.04.50:523][399]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Potion_Child5F844D3141AC97A786713F856DC3DF16.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/BluePrints/Pickable_Items/Potion_Child.uasset'
+[2019.10.30-05.04.51:288][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-05.04.51:331][477]BlueprintLog: New page: Compile Potion_Child
+[2019.10.30-05.04.51:484][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.10.30-05.04.52:185][539]LogSlate: Window 'Potion_Child' being destroyed
+[2019.10.30-05.04.52:197][539]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.10.30-05.04.54:012][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-05.04.54:079][758]LogTemp: Repeating last play command: VR Preview
+[2019.10.30-05.04.54:087][758]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.10.30-05.04.54:087][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-05.04.54:087][758]PIE: New page: PIE session: MotionControllerMap (31 окт. 2019 г., 1:04:54)
+[2019.10.30-05.04.54:087][758]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.10.30-05.04.54:099][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011893s)
+[2019.10.30-05.04.54:100][758]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.10.30-05.04.54:100][758]LogPlayLevel: PIE: World Init took: (0.000914s)
+[2019.10.30-05.04.54:100][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.012931s)
+[2019.10.30-05.04.54:127][758]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.10.30-05.04.54:170][758]LogInit: XAudio2 using 'Динамики (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.30-05.04.54:182][758]LogInit: FAudioDevice initialized.
+[2019.10.30-05.04.54:190][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-05.04.54:201][758]LogLoad: Game class is 'GameModeBase'
+[2019.10.30-05.04.54:204][758]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.10.30-15.04.54
+[2019.10.30-05.04.54:204][758]LogWorld: Bringing up level for play took: 0.002415
+[2019.10.30-05.04.54:204][758]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.10.30-05.04.54:209][758]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0,753
+[2019.10.30-05.04.54:209][758]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.10.30-05.05.26:077][609]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.10.30-05.05.26:118][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-05.05.26:118][609]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.10.30-05.05.26:140][609]LogSlate: Window 'MAGICROOM1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.30-05.05.26:142][609]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.30-05.05.26:147][609]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.30-05.05.26:148][609]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.10.30-05.05.26:186][609]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.10.30-05.05.26:198][610]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.10.30-05.05.27:813][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-05.05.28:228][846]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MagicRoom/BluePrints/Pickable_Items/Potion_Child.Potion_Child
+[2019.10.30-05.05.38:783][759]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.30-05.05.38:820][759]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Potion_Child267E34544E9A046C396CFC85C998EB62.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/BluePrints/Pickable_Items/Potion_Child.uasset'
+[2019.10.30-05.05.41:241][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-05.05.42:363][ 61]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Potion_ChildA4AE7B1D4B3FA6538A8A33AFE78DBB94.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/BluePrints/Pickable_Items/Potion_Child.uasset'
+[2019.10.30-05.05.43:559][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-05.06.07:888][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-05.06.11:887][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.30-05.06.11:924][ 53]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Potion_ChildADC837A64CDB03FEAF6C32AD0FFBF386.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/BluePrints/Pickable_Items/Potion_Child.uasset'
+[2019.10.30-05.06.13:567][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-05.06.13:628][209]LogSlate: Window 'Potion_Child' being destroyed
+[2019.10.30-05.06.13:640][209]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.10.30-05.06.15:142][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-05.06.15:201][389]LogTemp: Repeating last play command: VR Preview
+[2019.10.30-05.06.15:208][389]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.10.30-05.06.15:209][389]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.30-05.06.15:209][389]LogPlayLevel: [PlayLevel] Compiling Potion_Child before play...
+[2019.10.30-05.06.15:365][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.10.30-05.06.15:365][389]LogPlayLevel: PlayLevel: Blueprint regeneration took 156 ms (1 blueprints)
+[2019.10.30-05.06.15:365][389]PIE: New page: PIE session: MotionControllerMap (31 окт. 2019 г., 1:06:15)
+[2019.10.30-05.06.15:365][389]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.10.30-05.06.15:375][389]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009918s)
+[2019.10.30-05.06.15:376][389]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.10.30-05.06.15:376][389]LogPlayLevel: PIE: World Init took: (0.000830s)
+[2019.10.30-05.06.15:376][389]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.010862s)
+[2019.10.30-05.06.15:401][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.10.30-05.06.15:444][389]LogInit: XAudio2 using 'Динамики (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.30-05.06.15:454][389]LogInit: FAudioDevice initialized.
+[2019.10.30-05.06.15:462][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-05.06.15:472][389]LogLoad: Game class is 'GameModeBase'
+[2019.10.30-05.06.15:475][389]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.10.30-15.06.15
+[2019.10.30-05.06.15:476][389]LogWorld: Bringing up level for play took: 0.003006
+[2019.10.30-05.06.15:476][389]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.10.30-05.06.15:481][389]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0,025
+[2019.10.30-05.06.15:482][389]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.10.30-05.06.21:734][948]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.10.30-05.06.21:770][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-05.06.21:770][948]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.10.30-05.06.21:790][948]LogSlate: Window 'MAGICROOM1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.30-05.06.21:793][948]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.30-05.06.21:799][948]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.30-05.06.21:800][948]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.10.30-05.06.21:839][948]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.10.30-05.06.21:852][949]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.10.30-05.06.22:890][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-05.06.23:098][ 94]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MagicRoom/BluePrints/Pickable_Items/Potion_Child.Potion_Child
+[2019.10.30-05.06.33:597][140]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Potion_Child07B6C5F54C63636BD682B68EECA9BDBE.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/BluePrints/Pickable_Items/Potion_Child.uasset'
+[2019.10.30-05.06.34:026][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-05.06.34:076][192]BlueprintLog: New page: Compile Potion_Child
+[2019.10.30-05.06.34:233][192]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2019.10.30-05.06.34:870][263]LogSlate: Window 'Potion_Child' being destroyed
+[2019.10.30-05.06.34:880][263]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.10.30-05.06.36:657][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-05.06.37:287][543]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MagicRoom/BluePrints/Pick_PR.Pick_PR
+[2019.10.30-05.06.52:260][ 89]LogSlate: Window 'Pick_PR' being destroyed
+[2019.10.30-05.06.52:272][ 89]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.10.30-05.06.53:371][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-05.06.54:098][301]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MagicRoom/BluePrints/Pickable_Items/Potion_Child.Potion_Child
+[2019.10.30-05.06.58:297][717]LogCore: Display: AppLifetime: Application will enter background
+[2019.10.30-05.06.58:849][776]LogHMD: SteamVR Shutting down.
+[2019.10.30-05.07.20:158][895]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.30-05.07.20:193][895]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Potion_Child9BABC94847B044964A6C9789E0502466.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/BluePrints/Pickable_Items/Potion_Child.uasset'
+[2019.10.30-05.07.21:570][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-05.07.21:638][ 42]BlueprintLog: New page: Compile Potion_Child
+[2019.10.30-05.07.21:794][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.10.30-05.07.21:897][ 48]LogEditorSessionSummary: EditorSessionSummary sent report. Type=AbnormalShutdown, SessionId={A6B7BB56-4CB3-D597-CE8A-16B6EB97020B}
+[2019.10.30-05.07.24:721][271]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MagicRoom/BluePrints/Pick_PR.Pick_PR
+[2019.10.30-05.07.32:010][989]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.10.30-05.07.33:481][143]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.30-05.07.33:513][143]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Potion_ChildD0A649D3465D469FA956F7ADB03B8A2D.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/BluePrints/Pickable_Items/Potion_Child.uasset'
+[2019.10.30-05.07.34:322][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-05.07.35:183][315]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.30-05.07.35:200][315]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Potion_ChildFDDAC44847B7B35534AE6B949CC558C6.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/BluePrints/Pickable_Items/Potion_Child.uasset'
+[2019.10.30-05.07.37:526][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-05.07.39:986][835]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.30-05.07.40:020][835]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Potion_Child81FF1EBD47359C827BCC75A029B10C66.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/BluePrints/Pickable_Items/Potion_Child.uasset'
+[2019.10.30-05.07.41:708][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-05.07.50:543][953]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.30-05.07.50:577][953]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Potion_ChildE08AA310491518CCF69A50BFDD56F72E.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/BluePrints/Pickable_Items/Potion_Child.uasset'
+[2019.10.30-05.07.51:740][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-05.07.51:818][ 80]LogSlate: Window 'Potion_Child' being destroyed
+[2019.10.30-05.07.51:822][ 80]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.30-05.07.51:822][ 80]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.10.30-05.07.54:515][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-05.08.00:909][157]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube
+[2019.10.30-05.08.11:101][169]LogSlate: Window 'BP_PickupCube' being destroyed
+[2019.10.30-05.08.11:113][169]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2019.10.30-05.08.12:163][289]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-05.08.12:328][308]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MagicRoom/BluePrints/Pick_PR.Pick_PR
+[2019.10.30-05.08.30:087][257]LogSlate: Window 'Pick_PR' being destroyed
+[2019.10.30-05.08.30:092][257]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2019.10.30-05.08.31:803][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-05.08.45:772][116]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube
+[2019.10.30-05.08.51:212][627]LogSlate: Window 'BP_PickupCube' being destroyed
+[2019.10.30-05.08.51:223][627]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2019.10.30-05.08.53:693][917]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MagicRoom/BluePrints/Pickable_Items/Potion_Child.Potion_Child
+[2019.10.30-05.08.56:301][163]BlueprintLog: New page: Compile Potion_Child
+[2019.10.30-05.08.56:465][163]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.10.30-05.09.03:963][913]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.30-05.09.12:638][735]BlueprintLog: New page: Compile Potion_Child
+[2019.10.30-05.09.12:784][735]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.10.30-05.09.13:379][792]LogSlate: Window 'Potion_Child' being destroyed
+[2019.10.30-05.09.13:396][792]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2019.10.30-05.09.15:112][990]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube
+[2019.10.30-05.09.20:523][522]LogSlate: Window 'BP_PickupCube' being destroyed
+[2019.10.30-05.09.20:528][522]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2019.10.30-05.09.21:906][681]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={8CF7C5E8-4F6C-98AF-0241-FD88564AF958}
+[2019.10.30-05.09.23:839][913]LogEditorViewport: Clicking on Actor (LMB): Potion_Child_C (Potion_Child2)
+[2019.10.30-05.09.28:297][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-05.09.31:214][776]LogEditorViewport: Clicking on Actor (LMB): Potion_Child_C (Potion_Child2)
+[2019.10.30-05.09.32:473][923]LogEditorViewport: Clicking on Actor (LMB): Potion_Child_C (Potion_Child3)
+[2019.10.30-05.09.39:098][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-05.09.39:963][814]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MagicRoom/BluePrints/Pick_PR.Pick_PR
+[2019.10.30-05.09.45:669][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MagicRoom/BluePrints/Pick_PR" FILE="C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/BluePrints/Pick_PR.uasset" SILENT=true
+[2019.10.30-05.09.45:687][247]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Pick_PRFD3B3BB34B47E01C1454EDBCAEE65692.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/BluePrints/Pick_PR.uasset'
+[2019.10.30-05.09.46:790][336]BlueprintLog: New page: Compile Pick_PR
+[2019.10.30-05.09.47:034][336]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.10.30-05.09.47:880][413]LogSlate: Window 'Pick_PR' being destroyed
+[2019.10.30-05.09.47:896][413]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2019.10.30-05.09.51:533][838]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MagicRoom/BluePrints/Pickable_Items/Potion_Child.Potion_Child
+[2019.10.30-05.09.58:006][358]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.30-05.09.58:043][358]LogSavePackage: Moving 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Saved/Potion_Child5A65F93C41CF0DFB06A581A5DB901842.tmp' to 'C:/Users/VRLABDV/Documents/Unreal Projects/MAGICROOM1/Content/MagicRoom/BluePrints/Pickable_Items/Potion_Child.uasset'
+[2019.10.30-05.10.00:522][570]BlueprintLog: New page: Compile Potion_Child
+[2019.10.30-05.10.00:703][570]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2019.10.30-05.10.01:764][660]LogSlate: Window 'Potion_Child' being destroyed
+[2019.10.30-05.10.01:780][660]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2019.10.30-05.10.05:197][ 63]LogTemp: Repeating last play command: VR Preview
+[2019.10.30-05.10.05:211][ 63]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.10.30-05.10.05:211][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-05.10.05:211][ 63]PIE: New page: PIE session: MotionControllerMap (31 окт. 2019 г., 1:10:05)
+[2019.10.30-05.10.05:211][ 63]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.10.30-05.10.05:222][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010126s)
+[2019.10.30-05.10.05:222][ 63]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.10.30-05.10.05:222][ 63]LogPlayLevel: PIE: World Init took: (0.000797s)
+[2019.10.30-05.10.05:223][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.011041s)
+[2019.10.30-05.10.05:248][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2019.10.30-05.10.05:290][ 63]LogInit: XAudio2 using 'Динамики (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.30-05.10.05:300][ 63]LogInit: FAudioDevice initialized.
+[2019.10.30-05.10.05:308][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-05.10.07:868][ 63]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-89847F5B
+[2019.10.30-05.10.07:875][ 63]LogLoad: Game class is 'GameModeBase'
+[2019.10.30-05.10.07:878][ 63]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.10.30-15.10.07
+[2019.10.30-05.10.07:878][ 63]LogWorld: Bringing up level for play took: 0.002327
+[2019.10.30-05.10.07:878][ 63]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2019.10.30-05.10.07:885][ 63]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 2,429
+[2019.10.30-05.10.07:885][ 63]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.10.30-05.10.40:966][ 19]LogCore: Display: AppLifetime: Application will enter background
+[2019.10.30-05.10.43:045][205]LogCore: Display: AppLifetime: Application has entered foreground
+[2019.10.30-05.10.46:745][103]LogCore: Display: AppLifetime: Application will enter background
+[2019.10.30-05.10.47:080][266]LogHMD: SteamVR Shutting down.
+[2019.10.30-05.10.47:097][266]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.30-05.10.47:109][266]LogSlate: Window 'MAGICROOM1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.30-05.10.47:112][266]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.10.30-05.10.47:112][266]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.10.30-05.10.47:113][266]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.30-05.10.47:118][266]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.30-05.10.47:118][266]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.10.30-05.10.47:157][266]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.10.30-05.10.47:279][267]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.10.30-05.10.48:630][429]LogTemp: Repeating last play command: VR Preview
+[2019.10.30-05.10.48:644][429]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.10.30-05.10.48:644][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-05.10.48:644][429]PIE: New page: PIE session: MotionControllerMap (31 окт. 2019 г., 1:10:48)
+[2019.10.30-05.10.48:644][429]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.10.30-05.10.48:654][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010231s)
+[2019.10.30-05.10.48:655][429]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.10.30-05.10.48:656][429]LogPlayLevel: PIE: World Init took: (0.001046s)
+[2019.10.30-05.10.48:656][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.011458s)
+[2019.10.30-05.10.48:683][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.10.30-05.10.48:724][429]LogInit: XAudio2 using 'Динамики (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.30-05.10.48:735][429]LogInit: FAudioDevice initialized.
+[2019.10.30-05.10.48:741][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-05.10.48:793][429]LogHMD: Failed to initialize OpenVR with code 117
+[2019.10.30-05.10.48:793][429]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.10.30-05.10.48:994][429]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.201 s
+[2019.10.30-05.10.48:994][429]LogOutputDevice: Error: === Handled ensure: ===
+[2019.10.30-05.10.48:994][429]LogOutputDevice: Error: 
+[2019.10.30-05.10.48:994][429]LogOutputDevice: Error: Ensure condition failed: IsInitialized() [File:D:/Build/++UE4/Sync/Engine/Plugins/Runtime/Steam/SteamVR/Source/SteamVR/Private/SteamVRHMD.cpp] [Line: 1617]
+[2019.10.30-05.10.48:994][429]LogOutputDevice: Error: 
+[2019.10.30-05.10.48:994][429]LogOutputDevice: Error: Stack: 
+[2019.10.30-05.10.48:994][429]LogOutputDevice: Error: [Callstack] 0x00007fff901b3169 UE4Editor-SteamVR.dll!UnknownFunction []
+[2019.10.30-05.10.48:994][429]LogOutputDevice: Error: [Callstack] 0x00007fff901a4b8e UE4Editor-SteamVR.dll!UnknownFunction []
+[2019.10.30-05.10.48:994][429]LogOutputDevice: Error: [Callstack] 0x00007fff9019261c UE4Editor-SteamVR.dll!UnknownFunction []
+[2019.10.30-05.10.48:994][429]LogOutputDevice: Error: [Callstack] 0x00007fff9ab44e26 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.30-05.10.48:994][429]LogOutputDevice: Error: [Callstack] 0x00007fff9ab64361 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.30-05.10.48:994][429]LogOutputDevice: Error: [Callstack] 0x00007fff9ab7e265 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.30-05.10.48:994][429]LogOutputDevice: Error: [Callstack] 0x00007fff9a63d9b4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.30-05.10.48:994][429]LogOutputDevice: Error: [Callstack] 0x00007fff9ae95296 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.30-05.10.48:994][429]LogOutputDevice: Error: [Callstack] 0x00007ff62c217b0a UE4Editor.exe!UnknownFunction []
+[2019.10.30-05.10.48:994][429]LogOutputDevice: Error: [Callstack] 0x00007ff62c22a91c UE4Editor.exe!UnknownFunction []
+[2019.10.30-05.10.48:994][429]LogOutputDevice: Error: [Callstack] 0x00007ff62c22a9fa UE4Editor.exe!UnknownFunction []
+[2019.10.30-05.10.48:994][429]LogOutputDevice: Error: [Callstack] 0x00007ff62c23b92c UE4Editor.exe!UnknownFunction []
+[2019.10.30-05.10.48:994][429]LogOutputDevice: Error: [Callstack] 0x00007ff62c23e60e UE4Editor.exe!UnknownFunction []
+[2019.10.30-05.10.48:994][429]LogOutputDevice: Error: [Callstack] 0x00007ff803dd7bd4 KERNEL32.DLL!UnknownFunction []
+[2019.10.30-05.10.48:994][429]LogOutputDevice: Error: [Callstack] 0x00007ff804aeced1 ntdll.dll!UnknownFunction []
+[2019.10.30-05.10.48:994][429]LogOutputDevice: Error: 
+[2019.10.30-05.10.49:006][429]LogStats:                SubmitErrorReport -  0.000 s
